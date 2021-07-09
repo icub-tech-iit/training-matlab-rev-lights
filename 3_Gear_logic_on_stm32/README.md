@@ -15,4 +15,4 @@ In order to accomplish it, we need to [Configure Model for Code Generation and D
 - The user LED is driven by GPIO Pin 13 on the Nucleo L476RG board. The user LED might be driven by a different Pin on different Nucleo boards.
 
 
-![Video](assets/real.MOV)
+![Video](assets/real.mp4)
