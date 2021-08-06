@@ -6,9 +6,7 @@ This repository consists of folders containing the MATLAB and Simulink files bas
 - [MAKE ARDUINO RGB REV LIGHTS w SIMHUB](https://img.youtube.com/vi/u5kZjg_sJdg/0.jpg)
 
 
-| [![](https://img.youtube.com/vi/u5kZjg_sJdg/0.jpg)](https://www.youtube.com/watch?v=u5kZjg_sJdg) |
-| :---------------: |
-| (🔘 click on the image to play teh video on Youtube) |
+https://user-images.githubusercontent.com/18039045/128365932-74f889ef-dba3-4c35-8450-e8a4dcfe52ad.mov
 
 
 ## Prerequisites
@@ -30,7 +28,7 @@ We recommend completing the [Getting Started with Simulink Coder Support Package
 
 ## The goal 🎯
 
-The purpose of this project is learn how to combine Simulink, Simscape and Stateflow and how we cane use them to control a gear selection system with a LED feedback coming from a [NUCLEO-L476RG](https://www.st.com/en/evaluation-tools/nucleo-l476rg.html) board.
+The purpose of this project is learn how to combine Simulink, and Stateflow and how we cane use them to control a gear selection system with a LED feedback coming from a [NUCLEO-L476RG](https://www.st.com/en/evaluation-tools/nucleo-l476rg.html) board.
 
 ## Tasks
 
