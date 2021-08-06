@@ -32,9 +32,9 @@ The purpose of this project is learn how to combine Simulink, and Stateflow and 
 
 ## Tasks
 
-- [ ] Implement a **simplified** State-Controlled Four-Gear Selection based on the [Automatic Transmission Controller](https://www.mathworks.com/help/simulink/slref/modeling-an-automatic-transmission-controller.html) example.
-- [ ] Each time a gear is scaled up/down the LED should blink once.
-- [ ] Once the the system reaches the last gear and the engine is revving, the LED should blink rapidely.
+- Implement a **simplified** State-Controlled Four-Gear Selection based on the [Automatic Transmission Controller](https://www.mathworks.com/help/simulink/slref/modeling-an-automatic-transmission-controller.html) example.
+- Each time a gear is scaled up/down the LED should blink once.
+- Once the the system reaches the last gear and the engine is revving, the LED should blink quickly.
 
 #### Optionals:
 
